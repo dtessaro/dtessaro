@@ -1,0 +1,17 @@
+:root {
+  
+  /*Colors*/
+  --black:    #000000;
+  --darkest:  #191919;
+  --dark:     #2D4263;
+  --light:    #C84B31;
+  --lightest: #ECDBBA;
+  --white:    #ffffff;
+  
+  /*Dimensions*/
+  --width-sidebar: 200px;
+
+
+  /*Font dimensions*/
+  --p-size: 18px;
+  }

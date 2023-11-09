@@ -1,0 +1,11 @@
+
+
+@import 'page.css';
+@import 'sidebar.css';
+
+
+.main{
+    background: var(--darkest);
+    margin-left: var(--width-sidebar); /* Same as the width of the sidebar */
+    padding: 0px 10px;
+}
